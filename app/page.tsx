@@ -2,6 +2,12 @@ export default function Home() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <h2>Hello world</h2>
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel
+        praesentium quibusdam tempore aliquid vitae quos atque perspiciatis
+        asperiores officia, provident, perferendis doloribus illum dolor
+        pariatur placeat quae numquam, rem molestiae.
+      </p>
     </div>
   );
 }
